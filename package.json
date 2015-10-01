@@ -10,7 +10,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hebbian/rendom"
   },
   "main": "./index",
   "engines": {
