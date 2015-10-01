@@ -1,0 +1,43 @@
+{
+  "name": "rendom",
+  "version": "1.0.1",
+  "author": {
+    "name": "Hebbian",
+    "email": "",
+    "url": ""
+  },
+  "description": "Simple random generator",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "gitHead": "",
+  "bugs": {
+    "url": ""
+  },
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "hebbian",
+    "email": "idiotiquehebb@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "hebbian",
+      "email": "hebbian"
+    }
+  ],
+  "directories": {}
+}
